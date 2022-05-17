@@ -1,6 +1,6 @@
-describe(`mylib`, () => {
+describe(`Archive Management Core`, () => {
   //#region placeholder
-  it(`is a placeholder`, () => {
+  it(`should create look for a archive-booklet.json in reverse order`, () => {
     expect(1).toBe(1);
   });
   //#endregion
